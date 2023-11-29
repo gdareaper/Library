@@ -1,0 +1,104 @@
+[
+  {
+    "Titel": "The 48 Laws of Power",
+    "Författare": "Greene Robert",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "Fingers Pointing towards the Moon",
+    "Författare": "Wei Wu Wei",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "The Prince",
+    "Författare": "Niccolò Machiavelli",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "The Intelligent Investor",
+    "Författare": "Benjamin Graham",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "Tao Te Ching",
+    "Författare": "Lao Tzu",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "Mastery",
+    "Författare": "Greene Robert",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "The Little Book of Currency Trading",
+    "Författare": "Kathy Lien",
+    "Utlånad": true,
+    "LånadAv": null
+  },
+  {
+    "Titel": "The creature from Jekyll Island",
+    "Författare": "G. Edward Griffin",
+    "Utlånad": true,
+    "LånadAv": "Per Johnson"
+  },
+  {
+    "Titel": "Passions of the Soul",
+    "Författare": "René Descartes",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "A Treatise of Human Nature",
+    "Författare": "David Hume",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "The Wealth of Nations",
+    "Författare": "Adam Smith",
+    "Utlånad": true,
+    "LånadAv": "Mirtill Erdös"
+  },
+  {
+    "Titel": "The Art of War",
+    "Författare": "Sun Tzu",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "The Egyptian Book of the Dead",
+    "Författare": "John Romer",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "Necronomicon",
+    "Författare": "H. P. Lovecraft",
+    "Utlånad": false,
+    "LånadAv": null
+  },
+  {
+    "Titel": "The Genetical Theory of Natural Selection",
+    "Författare": "Ronald Aylmer Fisher",
+    "Utlånad": true,
+    "LånadAv": "Judit Erdös"
+  },
+  {
+    "Titel": "The Dreams in the Witch House",
+    "Författare": "H. P. Lovecraft",
+    "Utlånad": true,
+    "LånadAv": "Simon DePalme"
+  },
+  {
+    "Titel": "The Way of Zen",
+    "Författare": "Alan Watts",
+    "Utlånad": false,
+    "LånadAv": null
+  }
+]
