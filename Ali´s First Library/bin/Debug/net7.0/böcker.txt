@@ -1,0 +1,3 @@
+Fingers Pointing towards the Moon,Wei Wu Wei,False
+The Prince,Niccolò Machiavelli,False
+The Intelligent Investor,Benjamin Graham,False

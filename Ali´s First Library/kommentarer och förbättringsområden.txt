@@ -1,0 +1,19 @@
+﻿
+
+
+Det var lite svårt att få huvud genom hur hela uppgiften skulle göras och hur den skulle se ut.
+La till mest väldigt många "onödiga" funktioner och la till funktionalitet som jag senare kom
+att ta bort.
+
+Hade mest problem med att få dem nya böckerna att syncronisera från nyss sparat till att visas
+i menyn "Visa tillgängliga böcker". Det gick inte att lösa med using eller close(), så jag lät
+det blir som det är och listan uppdateras när programmet avslutas.
+
+jag la till metoden uppdatera lånestatus men jag fick inte riktigt till tiden att se om den 
+funkade och hur den funkade.
+
+Hade varit fint om man kunde ha tillvalet att klicka på Esc för att gå tillbaka till huvud
+menyn när som helst, och vart man än är i programmet
+
+
+

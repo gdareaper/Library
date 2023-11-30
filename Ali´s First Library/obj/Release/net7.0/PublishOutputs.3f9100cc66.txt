@@ -1,0 +1,6 @@
+C:\Users\46725\Desktop\GitHub\Library_English\Library Program\Library.exe
+C:\Users\46725\Desktop\GitHub\Library_English\Library Program\Library.dll
+C:\Users\46725\Desktop\GitHub\Library_English\Library Program\Library.deps.json
+C:\Users\46725\Desktop\GitHub\Library_English\Library Program\Library.runtimeconfig.json
+C:\Users\46725\Desktop\GitHub\Library_English\Library Program\Library.pdb
+C:\Users\46725\Desktop\GitHub\Library_English\Library Program\Newtonsoft.Json.dll

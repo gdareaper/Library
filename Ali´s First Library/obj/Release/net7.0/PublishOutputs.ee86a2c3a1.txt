@@ -1,0 +1,6 @@
+C:\Users\46725\OneDrive\Programmeringsteknik C#\InlämningsUppgifter\Los Biblotekas\The Bibloteka Program\inlämn.Upp_Library_1.0.exe
+C:\Users\46725\OneDrive\Programmeringsteknik C#\InlämningsUppgifter\Los Biblotekas\The Bibloteka Program\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\OneDrive\Programmeringsteknik C#\InlämningsUppgifter\Los Biblotekas\The Bibloteka Program\inlämn.Upp_Library_1.0.deps.json
+C:\Users\46725\OneDrive\Programmeringsteknik C#\InlämningsUppgifter\Los Biblotekas\The Bibloteka Program\inlämn.Upp_Library_1.0.runtimeconfig.json
+C:\Users\46725\OneDrive\Programmeringsteknik C#\InlämningsUppgifter\Los Biblotekas\The Bibloteka Program\inlämn.Upp_Library_1.0.pdb
+C:\Users\46725\OneDrive\Programmeringsteknik C#\InlämningsUppgifter\Los Biblotekas\The Bibloteka Program\Newtonsoft.Json.dll

@@ -1,0 +1,6 @@
+C:\Users\46725\Desktop\GitHub\Library.moch1\inlämn.Upp_Library_1.0.exe
+C:\Users\46725\Desktop\GitHub\Library.moch1\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\Desktop\GitHub\Library.moch1\inlämn.Upp_Library_1.0.deps.json
+C:\Users\46725\Desktop\GitHub\Library.moch1\inlämn.Upp_Library_1.0.runtimeconfig.json
+C:\Users\46725\Desktop\GitHub\Library.moch1\inlämn.Upp_Library_1.0.pdb
+C:\Users\46725\Desktop\GitHub\Library.moch1\Newtonsoft.Json.dll

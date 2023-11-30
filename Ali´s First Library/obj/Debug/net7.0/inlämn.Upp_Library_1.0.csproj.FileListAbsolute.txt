@@ -1,0 +1,35 @@
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.exe
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.deps.json
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.runtimeconfig.json
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.pdb
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.AssemblyInfoInputs.cache
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.AssemblyInfo.cs
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.csproj.CoreCompileInputs.cache
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\refint\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.pdb
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.genruntimeconfig.cache
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\ref\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.csproj.AssemblyReference.cache
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.csproj.CopyComplete
+C:\Users\46725\OneDrive\Programmeringsteknik C#\Uppgifter\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.sourcelink.json
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.csproj.AssemblyReference.cache
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.AssemblyInfoInputs.cache
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.AssemblyInfo.cs
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.csproj.CoreCompileInputs.cache
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\refint\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.pdb
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.exe
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.deps.json
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.runtimeconfig.json
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.dll
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\bin\Debug\net7.0\inlämn.Upp_Library_1.0.pdb
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.csproj.CopyComplete
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\inlämn.Upp_Library_1.0.genruntimeconfig.cache
+C:\Users\46725\Desktop\GitHub\Library_English\inlämn.Upp_Library_1.0\obj\Debug\net7.0\ref\inlämn.Upp_Library_1.0.dll
